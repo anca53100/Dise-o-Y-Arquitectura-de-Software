@@ -1,0 +1,5 @@
+Definición:
+Vamos a diseña y a construir un desarrollo de software(pagina web) para una tienda física que quiere tener mayor visibilidad de sus productos.
+
+Necesidad:
+La necesidad del cliente consiste en contar con una tienda virtual que permita dar mayor visibilidad a los productos ofrecidos, facilitando su consulta, selección y compra por parte de los usuarios
